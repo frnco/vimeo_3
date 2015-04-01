@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name                      = 'vimeo_3'
-  s.version                   = '0.0.1'
+  s.version                   = '0.0.2'
   s.date                      = '2015-03-31'
   s.summary                   = "Vimeo API v3"
   s.description               = "Vimeo API v3 Integration"
