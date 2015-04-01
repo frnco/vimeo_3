@@ -1,9 +1,9 @@
 # vimeo_3
 Vimeo API v3 GEM
 
-Add it to your Gemfile:
+Add it to your Gemfile (The gem uses semantic versioning):
 
-    gem 'vimeo_3', github: 'frnco/vimeo_3'
+    gem 'vimeo_3', '~0.0.1'
 
 Use it:
 
